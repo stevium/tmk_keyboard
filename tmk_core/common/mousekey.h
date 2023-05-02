@@ -33,10 +33,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MOUSEKEY_WHEEL_DELTA    1
 #endif
 #ifndef MOUSEKEY_DELAY
-#define MOUSEKEY_DELAY 300
+#define MOUSEKEY_DELAY 0
 #endif
 #ifndef MOUSEKEY_INTERVAL
-#define MOUSEKEY_INTERVAL 50
+#define MOUSEKEY_INTERVAL 25
 #endif
 #ifndef MOUSEKEY_MAX_SPEED
 #define MOUSEKEY_MAX_SPEED 10
